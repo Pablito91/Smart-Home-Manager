@@ -1,0 +1,14 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.pdb
+*.log
+*.DS_Store
+*.ide
+*.sln.docstates
+packages/
+TestResults/
+*.db
+*.sqlite
