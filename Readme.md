@@ -1,4 +1,4 @@
-﻿\# Smart Home Manager
+﻿# Smart Home Manager
 
 Paweł Bejger 80715
 
